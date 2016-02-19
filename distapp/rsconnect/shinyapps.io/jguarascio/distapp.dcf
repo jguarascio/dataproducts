@@ -1,0 +1,9 @@
+name: distapp
+account: jguarascio
+server: shinyapps.io
+appId: 84310
+bundleId: 376153
+url: https://jguarascio.shinyapps.io/distapp/
+when: 1455890473.19242
+asMultiple: FALSE
+asStatic: FALSE
